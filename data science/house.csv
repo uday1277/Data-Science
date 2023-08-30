@@ -1,0 +1,10 @@
+price,bedrooms,bathrooms,sqft_living,sqft_lot,city,month,sales,m,temp,rain,feedback
+313000,3,1.5,1340,7912,chennnai,january,15000,jan,10,50,Good
+2384000,6,2.5,3650,9050,bangalore,february,18000,feb,12,40,bad
+342000,3,2,1930,11947,mumbai,march,22000,mar,15,30,great
+420000,3,2.25,2000,8030,trichy,may,25000,apr,20,20,amazing
+550000,5,2.5,1940,10500,seoul,june,28000,may,25,10,worst
+490000,5,1,880,6380,busan,july,30000,jun,28,5,"not,bad"
+335000,4,2,1350,2560,daegu,august,40000,july,30,3,good
+482000,4,2.5,2710,35868,jeju,september,50000,aug,29,5,average
+452500,3,2.5,2430,88426,gwanju,october,55000,sep,26,10,the best
